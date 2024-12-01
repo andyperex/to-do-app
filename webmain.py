@@ -30,4 +30,3 @@ for index, todo in enumerate(todos):
 st.text_input(label="Lista de tareas",placeholder="Write something",
               on_change=add_todo, key="n_todo")
 
-st.session_state
