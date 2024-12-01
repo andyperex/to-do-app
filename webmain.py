@@ -13,7 +13,6 @@ def add_todo():
 
 
 st.title("My to do app")
-st.subheader("My To-do list")
 st.write("Let's keep track of your activities")
 
 
